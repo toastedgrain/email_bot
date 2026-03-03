@@ -2,6 +2,8 @@
 
 A CLI tool for sending personalized emails via the **Gmail API** with OAuth 2.0. Built for Google Workspace accounts (e.g. `@uci.edu`), but works with any Gmail account.
 
+May look to improve usability in the future.
+
 No SMTP. No app passwords. Just OAuth.
 
 ## Features
