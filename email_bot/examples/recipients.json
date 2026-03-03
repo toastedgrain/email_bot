@@ -1,0 +1,19 @@
+[
+  {
+    "email": "alice@example.com",
+    "name": "Alice",
+    "company": "Acme Corp",
+    "role": "Engineer",
+    "custom_line": "I loved your talk on distributed systems."
+  },
+  {
+    "email": "bob@example.com",
+    "name": "Bob",
+    "company": "Widgets Inc",
+    "role": "Designer",
+    "custom_line": "Your portfolio site is impressive."
+  },
+  {
+    "email": "carol@example.com"
+  }
+]

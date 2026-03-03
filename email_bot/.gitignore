@@ -1,0 +1,9 @@
+credentials.json
+data/token.json
+data/emailbot.sqlite
+.venv/
+__pycache__/
+*.egg-info/
+dist/
+build/
+report.csv

@@ -1,0 +1,10 @@
+Hi Professor {{ name }},
+
+I’m Andrew Zhao, a UCI student building a small project called [PinDev](https://www.pindev.app/) (pindev.app). It’s basically like Pinterest, but for coding projects: a visual way for students with less experience to discover web apps, AI tools, and other builds without digging through GitHub. For people who post, it’s a way to get more visibility on their projects, attract users or collaborators, and inspire other students with their ideas.
+
+I’m trying to grow it within the UCI community. If you think your students might enjoy sharing projects or browsing for inspiration, I’d really appreciate you spreading the word.
+
+Would also love any quick feedback if you have a minute.
+
+Thanks so much,
+Andrew Zhao
